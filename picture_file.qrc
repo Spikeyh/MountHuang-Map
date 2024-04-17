@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>buttonbackground.jpg</file>
+        <file>map.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>jietu 2024-04-11 160550.png</file>
+    </qresource>
+</RCC>
